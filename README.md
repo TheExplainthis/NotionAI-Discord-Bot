@@ -8,7 +8,7 @@
 ## 介紹
 近幾個月筆記軟體 Notion 也開始推出了自己的 [NotionAI 服務](https://www.notion.so/product/ai)，功能有多強大呢？可以先看看下面的影片：
 
-![](https://www.notion.so/front-static/pages/ai/video/notion-ai-hero/en-US.mp4)
+[![NotionAI Introduction](https://i.ytimg.com/vi/RDZ3mY10zY8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzPk5CktB6wPz8lgHguLi2UjfrOw)](https://youtu.be/RDZ3mY10zY8)
 
 NotionAI 和 ChatGPT 相似，但提供多種不同的功能，例如翻譯、行程規劃、Email 撰寫、文案發想、頭腦風暴等。本文將教你如何在 Discord 上使用 NotionAI，增強團隊協作。
 
