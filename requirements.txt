@@ -1,4 +1,3 @@
 discord.py==2.1.1
 python-dotenv==0.21.1
 Flask==2.2.3
-notionai-py==0.1.0
