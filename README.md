@@ -111,6 +111,11 @@ NotionAI 和 ChatGPT 相似，但提供多種不同的功能，例如翻譯、�
 | `recruiting_email` | prompt: 給 AI 的指令 |
 | `pros_cons_list` | prompt: 給 AI 的指令 |
 
+## 支持我們
+Like this free project? Please consider [supporting me](https://www.buymeacoffee.com/explainthis) to keep it running.
+
+[<a href="https://www.buymeacoffee.com/explainthis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/explainthis)
+
 ## 相關專案
 [NotionAI](https://github.com/Vaayne/NotionAI)
 
