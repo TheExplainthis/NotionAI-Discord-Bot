@@ -107,6 +107,11 @@ NotionAI is similar to ChatGPT, but it provides various functions, such as trans
 | `recruiting_email` | prompt: The command for AI |
 | `pros_cons_list` | prompt: The command for AI |
 
+## Support Us
+Like this free project? Please consider [supporting us](https://www.buymeacoffee.com/explainthis) to keep it running.
+
+[<a href="https://www.buymeacoffee.com/explainthis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/explainthis)
+
 ## Related Projects
 [NotionAI](https://github.com/Vaayne/NotionAI)
 
