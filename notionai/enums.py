@@ -28,20 +28,20 @@ class TopicEnum(ExtendedEnum):
 
 
 class TranslateLanguageEnum(ExtendedEnum):
-    english = "english"
-    korean = "korean"
-    chinese = "chinese"
-    japanese = "japanese"
-    spanish = "spanish"
-    russiab = "russiab"
-    french = "french"
-    german = "german"
-    italian = "italian"
-    portuguese = "portuguese"
-    dutch = "dutch"
-    indonesia = "indonesia"
-    tagalog = "tagalog"
-    vietnamese = "vietnamese"
+    english = "English"
+    korean = "Korean"
+    chinese = "Chinese"
+    japanese = "Japanese"
+    spanish = "Spanish"
+    russian = "Russian"
+    french = "French"
+    german = "German"
+    italian = "Italian"
+    portuguese = "Portuguese"
+    dutch = "Dutch"
+    indonesia = "Indonesian"
+    tagalog = "Tagalog"
+    vietnamese = "Vietnamese"
 
 
 class PromptTypeEnum(ExtendedEnum):
@@ -61,8 +61,8 @@ class PromptTypeEnum(ExtendedEnum):
 
 
 class ToneEnum(ExtendedEnum):
-    professional = "professional"
-    casual = "casual"
-    straight_forward = "straightforward"
-    confident = "confident"
-    friendly = "friendly"
+    professional = "Professional"
+    casual = "Casual"
+    straight_forward = "Straightforward"
+    confident = "Confident"
+    friendly = "Friendly"
